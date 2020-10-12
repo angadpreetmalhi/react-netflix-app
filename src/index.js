@@ -5,7 +5,7 @@ import App from './App';
 
 ReactDOM.render(
   <>
- <h1>Netflix Original Series</h1>
+ <h1>My Favourite Netflix Original Series</h1>
  <App/>
   </>,
   document.getElementById('root')
