@@ -1,0 +1,34 @@
+const Sdata=[
+{
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeAmeILgMLA_ccd7G9W8rkDQ7nlx4PmAPO3YClCqHzI-eKKT4VSmccp6SnN-maO6JLO4z_5ln9MVwekGejV6BwSzJQVffNBOu1FiJTe-kJsw7MQS7rV-tU-qc6aS.jpg?r=c25",
+  title:"Peaky Blinders",
+  link:"https://www.netflix.com/ca/title/80002479",
+},
+ {
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYCXCfVkAFjsSQJGuFsXPb7ANJ4GKjDYZU85JaiQ-qDc1QJJCH_55dJJ1RWTdlo62fLFpBLMWrM4JunTyNQbGZm0_iKOwdU91su6fYovYxIWxgtI1KJzhdbWq8ta.jpg?r=382",
+  title:"The Witcher",
+  link:"https://www.netflix.com/ca/title/80189685",
+   },
+ {
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa-oTyIxZjZX2RV59zIXh0I_NOJB16m7Iky-RTZ9jqavv58JOO4FcsoW_WH_vKdt9Cu8ZIZxDmDqb6FvEk6zj2aMp-GajzsrK9qJcFKdVZ7oNofBA9redABpGuwb.jpg?r=973",
+  title:"Narcos",
+  link:"https://www.netflix.com/ca/title/80025172",
+},
+ {
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRnz1Y7PU5SyriaG8Rdnq61efSLC4sbOLjA3tg3_OBgE5BjCN4M-a1m3-YFTNQPPPj1JZKlaKkVCUGrRCMtqlWcTTVI4ompxMKBKMm-5XHwFZ3hQDbMqYE6Deh2w.jpg?r=42e",
+  title:"EL Chapo",
+  link:"https://www.netflix.com/ca/title/80133042",
+    },
+{
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSugQMsDmxXdNOtVectXr9pviTTbw9cStPcrJz_Cz_cRibyDSRn0qEjfoT6K2qplxYlJ9hUHlgu45RMPWOcuSVZ_jFLYC5RMS4jhVT4U-q7k15y4EondkdVwRh_b.jpg?r=3ed",
+  title:"Sacred Games",
+  link:"https://www.netflix.com/ca/title/80115328",
+    },
+{
+  img:"https://occ-0-372-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT9_UPa3aSAlyC0BUkTbjlZeBEcb2aLMaFqhLNHmLoaKonJDkiuAasFAYDvTvvG-j_Mp-use-i4k1RqAkCJjUM7zwwY7f0Y7zOWO4U8_THyYn9O0V3st6glrn0VU.jpg?r=fe4",
+  title:"Jamtara",
+  link:"https://www.netflix.com/ca/title/81183491",
+    },
+
+];
+export default Sdata;
